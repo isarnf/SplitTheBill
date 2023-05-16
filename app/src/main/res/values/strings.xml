@@ -7,4 +7,8 @@
     <string name="amount_in_reais">R$ 0,00</string>
     <string name="total_amount_to_pay">Total amount to pay</string>
     <string name="total_amount_to_receive">Total amount to receive</string>
+    <string name="add_friend">Add friend</string>
+    <string name="edit_friend">Edit friend</string>
+    <string name="remove_friend">Remove friend</string>
+    <string name="split_the_bill">Split the bill</string>
 </resources>

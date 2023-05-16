@@ -12,6 +12,12 @@
         android:theme="@style/Theme.SplitTheBill"
         tools:targetApi="31">
         <activity
+            android:name=".view.BillActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.FriendActivity"
+            android:exported="false" />
+        <activity
             android:name=".view.MainActivity"
             android:exported="true">
             <intent-filter>
